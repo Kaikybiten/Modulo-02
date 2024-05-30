@@ -1,0 +1,1 @@
+print('este é o modulo ', __name__) # Retorna __main__ caso essa seja o primeiro modulo executado, caso contrario, irá retornar o nome do modulo
